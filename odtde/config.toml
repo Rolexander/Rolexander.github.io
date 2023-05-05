@@ -1,3 +1,4 @@
 baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'de-de'
+title = 'Orden der Trinität der Einheit'
+theme = 'hugo-theme-cleanwhite'
